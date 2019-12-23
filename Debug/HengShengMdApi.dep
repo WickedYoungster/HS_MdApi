@@ -1,0 +1,2 @@
+Debug/HengShengMdApi.o: HengShengMdApi.cpp /usr/include/stdc-predef.h \
+ HengShengMdApi.h

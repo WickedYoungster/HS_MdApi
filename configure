@@ -1,0 +1,12 @@
+﻿user = 	thtz #用户ID
+pass =	thtz123 #密码
+app_key = 2472f127-4375-486a-86b7-d516681c2249		#app_key
+app_secret = 3f59efba-f190-45d6-a5ee-9eb3c22a1a1e	#app_secret
+
+ip_1 = 118.31.128.138	#第一组服务器ip.
+port_1 = 9999		#第一组服务器port.
+
+ip_2 = 121.43.74.8	#第二组服务器ip.
+port_2 = 9999			#第二组服务器port.
+
+maxNumberTest = 1000	#性能测试.行情订阅.代码数量.demo里，只取了A股。
